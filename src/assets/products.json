@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "imgSrc":[
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vwygtyxs5htejeaauoex.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/pjee0ugx83ebkdk9vi61.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vmdhyvbm0nqpnilpwlpa.png"
+        ],
+        "title":"Air-Stride Luxifys groundbreaking innovation in the world of sneakers",
+        "color":"orange",
+        "desc":"This revolutionary footwear series combines cutting-edge technology with unparalleled style, redefining the way you experience comfort and performance.",
+        "deletedPrice":1499,
+        "currentPrice":999,
+        "qty":10,
+        "category":"sneakers",
+        "size":[
+            6,7,8,9,10
+        ]
+
+    },
+    {
+        "id":2,
+        "imgSrc":[
+            
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/pjee0ugx83ebkdk9vi61.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vmdhyvbm0nqpnilpwlpa.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vwygtyxs5htejeaauoex.png"
+        ],
+        "title":"Air-Stride Luxifys groundbreaking innovation in the world of sneakers",
+        "color":"orange",
+        "desc":"This revolutionary footwear series combines cutting-edge technology with unparalleled style, redefining the way you experience comfort and performance.",
+        "deletedPrice":1499,
+        "currentPrice":999,
+        "qty":10,
+        "category":"sneakers",
+        "size":[
+            6,7,8,9,10
+        ]
+
+    },
+
+    {
+        "id":3,
+        "imgSrc":[
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vmdhyvbm0nqpnilpwlpa.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vwygtyxs5htejeaauoex.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/pjee0ugx83ebkdk9vi61.png"
+            
+        ],
+        "title":"Air-Stride Luxifys groundbreaking innovation in the world of sneakers",
+        "color":"orange",
+        "desc":"This revolutionary footwear series combines cutting-edge technology with unparalleled style, redefining the way you experience comfort and performance.",
+        "deletedPrice":1499,
+        "currentPrice":999,
+        "qty":10,
+        "category":"sneakers",
+        "size":[
+            6,7,8,9,10
+        ]
+
+    },
+    {
+        "id":4,
+        "imgSrc":[
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vwygtyxs5htejeaauoex.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/pjee0ugx83ebkdk9vi61.png",
+            "https://res.cloudinary.com/dzwspepvg/image/upload/v1708693521/products/vmdhyvbm0nqpnilpwlpa.png"
+        ],
+        "title":"Air-Stride Luxifys groundbreaking innovation in the world of sneakers",
+        "color":"orange",
+        "desc":"This revolutionary footwear series combines cutting-edge technology with unparalleled style, redefining the way you experience comfort and performance.",
+        "deletedPrice":1499,
+        "currentPrice":999,
+        "qty":10,
+        "category":"sneakers",
+        "size":[
+            6,7,8,9,10
+        ]
+
+    }
+    
+
+]
